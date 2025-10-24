@@ -26,7 +26,7 @@ Example use case:
 - **Name:** Marc Cine  
 - **GitHub:** [https://github.com/krn8nm5hvk-stack](https://github.com/krn8nm5hvk-stack)  
 - **Role:** Independent Developer  
-- **Contact:** [Add your email address here]  
+- **Contact:** marc.cine@gmail.com
 
 ## Notes
 This integration was built strictly for legitimate communication workflows.  
